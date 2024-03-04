@@ -1,0 +1,10 @@
+2024-03-04 12:18:51.630 [main] INFO  testCases.TC_01_NewBikes - --Driver Launched--
+2024-03-04 12:19:32.094 [main] INFO  testCases.TC_01_NewBikes - --ZigWheels Opened--
+2024-03-04 12:21:14.781 [main] INFO  testCases.TC_01_NewBikes - --Browser Launched--
+2024-03-04 12:21:24.875 [main] INFO  testCases.TC_01_NewBikes - --Driver Launched--
+2024-03-04 12:21:40.914 [main] INFO  testCases.TC_01_NewBikes - --ZigWheels Opened--
+2024-03-04 12:21:46.732 [main] INFO  testCases.TC_01_NewBikes - Navigated to Upcoming bikes
+2024-03-04 12:21:50.563 [main] INFO  testCases.TC_01_NewBikes - Honda manufacturer selected
+2024-03-04 12:21:51.545 [main] INFO  testCases.TC_01_NewBikes - Clicked on LoadMore
+2024-03-04 12:21:51.545 [main] INFO  testCases.TC_01_NewBikes - Bikes under 4L are printed on console and excel
+2024-03-04 12:22:26.193 [main] INFO  testCases.TC_01_NewBikes - --Browser Launched--
